@@ -1,3 +1,3 @@
 # Первая работа HTML & CSS
 ## Результат тут - 
-[Моя первая работа] (https://gkurkov.github.io/resume/)
+[Моя первая работа](https://gkurkov.github.io/resume/)
